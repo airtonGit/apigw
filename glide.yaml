@@ -1,0 +1,6 @@
+package: github.com/airtonGit/apigw
+import:
+- package: github.com/airtonGit/version
+- package: github.com/joho/godotenv
+  subpackages:
+  - autoload

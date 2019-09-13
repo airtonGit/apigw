@@ -1,0 +1,10 @@
+hash: 3eedf9ae02594fba25de06a688212f6ce6188a181622b58390af7d77f90319c4
+updated: 2019-09-12T22:07:15.042557-03:00
+imports:
+- name: github.com/airtonGit/version
+  version: 65c036c33bf25b6892a1d28adba8335345875c43
+- name: github.com/joho/godotenv
+  version: 5c0e6c6ab1a0a9ef0a8822cba3a05d62f7dad941
+  subpackages:
+  - autoload
+testImports: []
